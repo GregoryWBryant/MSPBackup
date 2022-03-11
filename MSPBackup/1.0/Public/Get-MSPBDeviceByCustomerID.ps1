@@ -18,6 +18,5 @@
             'partnerID' = $PartnerID
         }
     }
-    $retun = (Invoke-RestMethod -Uri $URI -Body ($body | ConvertTo-Json) -ContentType 'application/json' -Method Post).result.result
-    return $retun
+    return = (Invoke-RestMethod -Uri $URI -Body ($body | ConvertTo-Json) -ContentType 'application/json' -Method Post).result.result
 }
