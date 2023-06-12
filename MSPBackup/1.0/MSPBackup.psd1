@@ -21,13 +21,13 @@ ModuleVersion = '1.0'
 GUID = 'a83eb2e6-8284-4c80-8117-da57a081a29a'
 
 # Author of this module
-Author = 'Corsica Technologies - DevOps'
+Author = 'Gregory Bryant'
 
 # Company or vendor of this module
-CompanyName = 'Corsica Technologies'
+CompanyName = ''
 
 # Copyright statement for this module
-Copyright = '(c) Corsica Technologies - DevOps. All rights reserved.'
+Copyright = ''
 
 # Description of the functionality provided by this module
 # Description = ''
